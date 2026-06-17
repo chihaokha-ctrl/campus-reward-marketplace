@@ -25,6 +25,11 @@ The platform allows students to earn points by participating in campus activitie
 Unlike traditional reward systems that rely on centralized databases, all student balances, rewards, and redemption actions are managed on-chain, ensuring transparency, security, and accountability.
 
 ---
+## Project Preview
+
+<img width="1906" height="910" alt="Screenshot 2026-06-17 091829" src="https://github.com/user-attachments/assets/7b8d3d84-3534-4708-bd59-f060c9b1e0ee" />
+
+---
 
 ## Project Vision
 
